@@ -165,19 +165,19 @@ This is really handy for showing:
 
 Here's what these diagrams actually look like when rendered:
 
-![Flowchart Example](/images/image1.png)
+![Flowchart Example](/Images/image1.png)
 
 *A basic flowchart with decision logic*
 
-![Sequence Diagram Example](/images/image2.png)
+![Sequence Diagram Example](/Images/image2.png)
 
 *Sequence diagram showing how systems interact - helpful for API docs*
 
-![Gantt Chart Example](/images/image3.png)
+![Gantt Chart Example](/Images/image3.png)
 
 *Gantt chart for project planning*
 
-![Class Diagram Example](/images/image4.png)
+![Class Diagram Example](/Images/image4.png)
 
 *Class diagram showing inheritance - great for OOP design discussions*
 
